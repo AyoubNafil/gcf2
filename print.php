@@ -1,7 +1,7 @@
 <?php
 
 require('vendor/autoload.php');
-$con = mysqli_connect('localhost', 'root', '', 'pointage1');
+$con = mysqli_connect('localhost', 'root', '', 'gestion1');
 extract($_POST);
 
 $res = mysqli_query($con, "select * from Employe where cin='" . $cin . "'");
