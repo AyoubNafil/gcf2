@@ -1,3 +1,6 @@
+Index.php to enter login page
+
+
 AdminBSB - Material Design
 =======================
 [![npm version](https://img.shields.io/npm/v/adminbsb-materialdesign.svg)](https://www.npmjs.com/package/adminbsb-materialdesign)
